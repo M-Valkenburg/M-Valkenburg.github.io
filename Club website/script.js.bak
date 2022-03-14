@@ -1,0 +1,8 @@
+var module1 = document.querySelector(".head h3");
+$clamp(module, {clamp: 1});
+
+var module2 = document.querySelector(".text p");
+$clamp(module, {clamp: 2});
+
+var module3 = document.querySelector(".score p");
+$clamp(module, {clamp: 1});
