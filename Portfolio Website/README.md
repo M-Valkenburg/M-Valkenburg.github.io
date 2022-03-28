@@ -1,7 +1,7 @@
 Portfolio Website
 =================
 
-Yhis portfolio website was created as a project for the Codecademy front-end engineer career path.
+this portfolio website was created as a project for the Codecademy front-end engineer career path.
 
 
 Project Objectives:
