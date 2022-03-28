@@ -1,9 +1,11 @@
-#Portfolio Website
+Portfolio Website
+=================
 
 Yhis portfolio website was created as a project for the Codecademy front-end engineer career path.
 
 
-###Project Objectives:
+Project Objectives:
+-------------------
 - Build a website using HTML, CSS
 - Add at least one interactive feature using JavaScript
 - Use Git version control
